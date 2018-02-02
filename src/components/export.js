@@ -1,0 +1,1 @@
+export { default as VueMarquee } from './VueMarquee.vue'
